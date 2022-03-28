@@ -6,4 +6,4 @@ switch = { #switch case
     "CSC1009": "OOP",
     "CSC1010": "Computer Networks"
 }
-print(switch[Mod]) #print our
+print(switch[Mod]) #print out the value 

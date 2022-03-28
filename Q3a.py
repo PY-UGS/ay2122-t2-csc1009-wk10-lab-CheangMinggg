@@ -1,4 +1,4 @@
-Mod  = input("Enter a module code: ")
+Mod  = input("Enter a module code: ") #input the mod code
 switch = { #switch case
     "CSC1006": "Mathematics 2",
     "CSC1007": "Operating Systems",
@@ -6,4 +6,4 @@ switch = { #switch case
     "CSC1009": "OOP",
     "CSC1010": "Computer Networks"
 }
-print(switch[Mod])
+print(switch[Mod]) #print our
